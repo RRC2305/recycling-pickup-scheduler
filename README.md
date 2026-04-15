@@ -27,3 +27,7 @@
 * **GitHub Account** [[https://github.com/signup?source=login](https://github.com/signup?source=login)]** **
 
 ---
+---
+
+## CI/CD Workflow Update
+This README file was updated to trigger the GitHub Actions CI/CD workflow for the Recycling Pickup Scheduler project.
